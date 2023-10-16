@@ -1,4 +1,4 @@
-import { Center, Stack, Text, Title } from "@mantine/core";
+import { Stack, Text, Title } from "@mantine/core";
 
 interface UsageStatProps {
   title: string;
